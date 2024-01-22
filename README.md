@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @farun963, my real name is Gerardo Vicente.
 - 👀 I’m interested in videogames, music, team collaboration, software development.
-- 🌱 I’m currently learning Python for data analysis.
+- 🌱 I’m currently learning to become a web developer.
 - 💞️ I’m looking to collaborate on project management and implementation.
 - 📫 How to reach me: gerar963@gmail.com
 
